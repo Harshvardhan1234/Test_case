@@ -1,0 +1,67 @@
+body{
+    background-color: azure;
+}
+
+div{
+    background-color: #EE81B3;
+}
+
+h1{
+    margin-top: 0px;
+}
+
+body{
+    margin-top: 0px;
+    margin-left: 0px;
+    margin-right: 0px;
+}
+/*h1{
+    display: inline-table;
+
+}*/
+
+
+
+.img1{
+    width: 500px;
+    position: fixed;
+    left: 300px;
+    top: 100px;
+
+}
+.img2{
+    width: 500px;
+    position: relative;
+    left: 900px;
+    
+}
+
+.backgroundx{
+    width: 100%;
+}
+
+.anime1{
+    width: 300px;
+    position: fixed;
+    top: 10px;
+    left: 20px;
+    border-radius: 50px;
+
+}
+.anime2{
+    width: 300px;
+    position: fixed;
+    top: 10px;
+    right: 20px;
+    border-radius: 50px;
+
+}
+
+h1{
+    position: fixed;
+    left: 730px;
+    top: 50px;
+    color: #E0144C;
+    font-size: 80px;
+    font-family: 'Sacramento', cursive;
+}
